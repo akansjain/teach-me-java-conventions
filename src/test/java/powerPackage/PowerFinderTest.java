@@ -4,25 +4,25 @@ import org.junit.Test;
 
 public class PowerFinderTest {
     @Test
-    public void one_raised_to_one_is_onew() {
+    public void testOneRaisedToOneIsOne() {
 
         assert PowerFinder.calculatePower(1,1) == 1;
     }
 
     @Test
-    public void twoRaised_to_one_is_2() {
+    public void testTwoRaisedToOneIsTwo() {
 
         assert PowerFinder.calculatePower(2,1) == 2;
     }
 
     @Test
-    public void two_power_2_is_4() {
+    public void testTwoRaisedToTwoIsFour() {
 
         assert PowerFinder.calculatePower(2, 2) == 4;
     }
 
     @Test
-    public void power_of_2_and_3_Is_SIX() {
+    public void testThreeRaisedToTwoIsNine() {
 
         assert PowerFinder.calculatePower(3, 2) == 3*3;
     }

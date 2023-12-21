@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="powerPackage.PowerFinderTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-12-21T13:04:55" hostname="LAPTOP-NHIVA3TD" time="0.004">
+<testsuite name="powerPackage.PowerFinderTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-12-21T13:21:44" hostname="LAPTOP-NHIVA3TD" time="0.008">
   <properties/>
-  <testcase name="power_of_2_and_3_Is_SIX" classname="powerPackage.PowerFinderTest" time="0.003"/>
-  <testcase name="two_power_2_is_4" classname="powerPackage.PowerFinderTest" time="0.0"/>
-  <testcase name="one_raised_to_one_is_onew" classname="powerPackage.PowerFinderTest" time="0.0"/>
-  <testcase name="twoRaised_to_one_is_2" classname="powerPackage.PowerFinderTest" time="0.0"/>
+  <testcase name="testThreeRaisedToTwoIsNine" classname="powerPackage.PowerFinderTest" time="0.006"/>
+  <testcase name="testOneRaisedToOneIsOne" classname="powerPackage.PowerFinderTest" time="0.0"/>
+  <testcase name="testTwoRaisedToTwoIsFour" classname="powerPackage.PowerFinderTest" time="0.001"/>
+  <testcase name="testTwoRaisedToOneIsTwo" classname="powerPackage.PowerFinderTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
